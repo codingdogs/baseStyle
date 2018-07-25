@@ -1,0 +1,11 @@
+{
+  "name": "basestyle",
+  "version": "1.0.0",
+  "description": "基础样式发布到bower&npm，方便团队开发不同项目之间css引用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
